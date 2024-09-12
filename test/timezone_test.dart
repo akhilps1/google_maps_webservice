@@ -1,6 +1,6 @@
 import 'dart:async';
 
-import 'package:google_maps_webservice/timezone.dart';
+import 'package:google_maps_webservice_dart_three/timezone.dart';
 import 'package:test/test.dart';
 
 final _uri = Uri(
